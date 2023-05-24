@@ -35,7 +35,7 @@ The repository contains several Jupyter notebooks, data files, and trained model
 
 ## _Note_
 
-_When executing the Jupyter notebooks, the user may need to adjust the directory names and paths according to their specific configuration. This code was originally developed on Google Drive and used with Google Colab. If you are running the code locally, you might need to make necessary adaptations._
+_When executing the Jupyter notebooks, the user may need to adjust the directory names and paths according to their specific configuration. This code was originally developed on Google Drive and used with Google Colab. If you are running the code locally, you might need to make necessary adaptations. Some notebooks require private data and may not run, however, key parts of the code can be analyzed for reference._
 
 ## How to Use
 
